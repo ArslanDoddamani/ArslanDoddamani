@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
+![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 <h1 align="center">Hi 👋, I'm Arslan Doddamani</h1>
 <h3 align="center">A passionate CSE student, skilled web developer, and designer with expertise in crafting user-centric MERN stack applications and visually stunning interfaces.</h3>
